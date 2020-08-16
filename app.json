@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-second-app",
-    "slug": "my-second-app",
+    "name": "React Guess",
+    "slug": "reactguess",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.akansh.guessgame",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.akansh.guessgame",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
