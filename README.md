@@ -7,12 +7,12 @@ Simple Number Guessing Game Build Using React Native
 
 ## Instructions to run
 ### Step 1
-```
+```bash
 $ npm install
 ```
 
 ### Step 2
-```
+```bash
 $ expo start
 ```
 
